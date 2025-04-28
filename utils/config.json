@@ -1,0 +1,13 @@
+{
+    "Email_Send": "nguyenquocnhutpvt@gmail.com",
+    "Email_Receive": "theluan00123@gmail.com",
+    "Email_Password": "hdgunknxijnktinc",
+    "url": "",
+    "ALERT": true,
+    "Threshold": 3,
+    "Thread": false,
+    "Log": false,
+    "Scheduler": false,
+    "Timer": false
+}
+
